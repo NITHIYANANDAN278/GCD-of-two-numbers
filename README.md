@@ -36,7 +36,7 @@ def gcd():
 ```
 
 ## Output:
-![Screenshot 2024-03-23 085637](https://github.com/NITHIYANANDAN278/GCD-of-two-numbers/assets/121784636/d78f0305-66a0-48db-84ac-9ae6929a9fd5)
+![image](https://github.com/NITHIYANANDAN278/GCD-of-two-numbers/assets/121784636/7ea6972b-6936-4469-a2d6-e2d6d5032c15)
 
 
 
